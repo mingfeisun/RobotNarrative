@@ -1,11 +1,12 @@
 ### RobotNarrative
 
 **Related work**
+
 *Survey*
 
 * [A Survey on Storytelling with Robots](http://staffnew.uny.ac.id/upload/132169260/penelitian/chen-et-al2011a-survey-storytelling-robots.pdf) (2011)
 
-> The evaluation of narrative gestures in HRI
+*The evaluation of narrative gestures in HRI*
 
 * Modeling and Evaluating Narrative Gestures for Humanlike Robots
 * Evaluating an Expressive Gesture Model for a Humanoid Robot: Experimental Results
@@ -24,11 +25,11 @@
 
 *Framework*
 
-* [SAIBA - Multimodal Behavior Generation Framework](http://www.mindmakers.org/projects/saiba/wiki)**
+* [SAIBA - Multimodal Behavior Generation Framework](http://www.mindmakers.org/projects/saiba/wiki)
 
 *Dataset*
 
-* [GVLEX tales corpus](http://catalog.elra.info/product_info.php?products_id=1240)**:
+* [GVLEX tales corpus](http://catalog.elra.info/product_info.php?products_id=1240):
 > GV-LEX (Geste et Voix pour une Lecture Expressive – "Gesture and voice for an expressive reading") is a project funded by the French ANR within the call "Contenu et Interaction" in 2009.  GVLEX tales corpus was built to carry out research and development studies on automatic analysis of (written or spoken) tales for expressive voice and gesture synthesis.
 
 ### Behavior Tree
