@@ -17,29 +17,20 @@
 
 * Towards a Common Framework for Multimodal Generation: The Behavior Markup Language
 * The Next Step towards a Function Markup Language
-* 
 
 > Behavior Generation
 
 * Nonverbal Behavior Modeling for Socially Assistive Robots
 * Learning-Based Modeling of Multimodal Behaviors for Humanlike Robots
-* 
 
+> Framework
 
-### Framework
+* [SAIBA - Multimodal Behavior Generation Framework](http://www.mindmakers.org/projects/saiba/wiki)**
 
-**[SAIBA - Multimodal Behavior Generation Framework](http://www.mindmakers.org/projects/saiba/wiki)**
+> Dataset
 
-### Dataset
-
-**[GVLEX tales corpus](http://catalog.elra.info/product_info.php?products_id=1240)**:
-> GV-LEX (Geste et Voix pour une Lecture Expressive – "Gesture and voice for an expressive reading") is a project funded by the French ANR within the call "Contenu et Interaction" in 2009.  GVLEX tales corpus was built to carry out research and development studies on automatic analysis of (written or spoken) tales for expressive voice and gesture synthesis.
-> 
-> The corpus consists of:
-> * 89 written tales, manually annotated in structures, speech turns, speakers, phrases, 7 of which were annotated by 2 human annotators (96 annotated texts in total)
-> * 12 tales read by a professional. These tales were recorded and annotated manually so as to tag elements that indicate expressivity, as well as the signal/transcription alignment that enabled to proceed with acoustic analyses. The provided data include audio files. Forced alignments between signal and manual transcriptions (produced within GV-LEX) are also provided in the TextGrid format
-> * Annotation and viewing software developed within the GV-LEX project
-
+* [GVLEX tales corpus](http://catalog.elra.info/product_info.php?products_id=1240)**:
+> > GV-LEX (Geste et Voix pour une Lecture Expressive – "Gesture and voice for an expressive reading") is a project funded by the French ANR within the call "Contenu et Interaction" in 2009.  GVLEX tales corpus was built to carry out research and development studies on automatic analysis of (written or spoken) tales for expressive voice and gesture synthesis.
 
 ### Behavior Tree
 **Open source project**:
@@ -56,7 +47,19 @@
 
 * [Petter Ögren](http://www.csc.kth.se/~petter/)
 
-**Papers**
+**Papers & Books**
 
+* Behavior Trees in Robotics and AI
+* Towards a Unified Behavior Trees Framework for Robot Control
 
 ### Computational Narrative
+**Papers**
+
+* computer-assisted authoring of interactive narratives
+
+### User Study & Evaluation
+**Reference papers**
+
+* Should Robots be Obedient (IJCAI 2017)
+* Expressive Robot Motion Timing (HRI 2017)
+* Generating Legible Motion (RSS 2013)
