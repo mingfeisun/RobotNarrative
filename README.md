@@ -4,7 +4,7 @@
 
 > Survey
 
-* A Survey on Storytelling with Robots (2011)
+* [A Survey on Storytelling with Robots](http://staffnew.uny.ac.id/upload/132169260/penelitian/chen-et-al2011a-survey-storytelling-robots.pdf) (2011)
 
 > The evaluation of narrative gestures in HRI
 
@@ -49,17 +49,17 @@
 
 **Papers & Books**
 
-* Behavior Trees in Robotics and AI
-* Towards a Unified Behavior Trees Framework for Robot Control
+* [Behavior Trees in Robotics and AI](https://arxiv.org/pdf/1709.00084.pdf)
+* [Towards a Unified Behavior Trees Framework for Robot Control](http://www.csc.kth.se/~almc/pdf/unified_bt_framework.pdf)
 
 ### Computational Narrative
 **Papers**
 
-* computer-assisted authoring of interactive narratives
+* [computer-assisted authoring of interactive narratives](https://www.cs.rutgers.edu/~mk1353/pdfs/2015-i3d-bstl.pdf)
 
 ### User Study & Evaluation
 **Reference papers**
 
-* Should Robots be Obedient (IJCAI 2017)
-* Expressive Robot Motion Timing (HRI 2017)
-* Generating Legible Motion (RSS 2013)
+* [Should Robots be Obedient](https://arxiv.org/pdf/1705.09990.pdf) (IJCAI 2017)
+* [Expressive Robot Motion Timing](http://people.eecs.berkeley.edu/~anca/papers/HRI17_timing.pdf) (HRI 2017)
+* [Generating Legible Motion](https://www.ri.cmu.edu/pub_files/2013/6/legibility_analysis.pdf) (RSS 2013)
