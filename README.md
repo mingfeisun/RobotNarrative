@@ -1,5 +1,10 @@
 ### RobotNarrative
 
+* Mingfei Sun
+* Created: 2017-12-16
+* Updated: 2017-12-18
+
+
 **Related work**
 
 *Survey*
